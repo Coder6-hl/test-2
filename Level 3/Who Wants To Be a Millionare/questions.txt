@@ -1,0 +1,4 @@
+Something sting but you don't see?,bee,hunger,stingray,fly,1
+what is the thing that eats but never gets full?,fire,human,water,animal,0
+what is always coming but never arrives?,today,moment,year,tomorrow,3
+city yet no houses rivers yet no water forests yet no trees What am i?,map,hell,desert,farm,0 
